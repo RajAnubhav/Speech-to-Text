@@ -1,3 +1,5 @@
+# this is the prototype of the Assistant named as Assistant1.0
+
 # Modules requried for installation:
 # pip install beautifulsoup4
 # pip install google
