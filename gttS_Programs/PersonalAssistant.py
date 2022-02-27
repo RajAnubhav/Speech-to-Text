@@ -1,4 +1,4 @@
-# installation:
+# Modules requried for installation:
 # pip install beautifulsoup4
 # pip install google
 
